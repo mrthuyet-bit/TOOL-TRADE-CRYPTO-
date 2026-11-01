@@ -160,7 +160,7 @@ Mọi đóng góp từ cộng đồng đều được chào đón:
 Dự án này được phát hành dưới giấy phép mã nguồn mở **MIT License**. Bạn có toàn quyền sử dụng, sửa đổi và phân phối theo quy định của giấy phép.
 
 
-## lưu ý : đây chỉ là bản beta nên còn nhiều thiếu sót, nhưng nên tâm các phần cốt lõi để dùng thì đã hoàn thiện yên tâm có thể dùng, liên hệ để nhận được bản đầy đủ và chuẩn xác hơn thanks
+## lưu ý : đây chỉ là bản beta nên còn nhiều thiếu sót, nhưng yên tâm các phần cốt lõi để dùng thì đã hoàn thiện yên tâm có thể dùng, liên hệ để nhận được bản đầy đủ và chuẩn xác hơn thanks
 
 các chức năng gồm trade long short, hold dài hạn tích lũy, săn meme coin x10-50, đầy đủ các điều kiện thực tế không mô phỏng dự đoán tất cả dữ liệu đều là trên thị trường nên kết quả sẽ chính xác hơn rất nhiều. nhưng cũng không đồng nghĩa với việc đảm bảo an toàn 100% vì các nhà tạo lập và nhà đầu tư họ có thể đổi ý khiến kết quả sai lệch, tool giúp phân bổ vốn hợp lý không theo cảm tính, chúc bạn trải nghiệm thật tốt.
 
