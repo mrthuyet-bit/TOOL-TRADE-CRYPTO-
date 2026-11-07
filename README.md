@@ -168,9 +168,6 @@ Nếu công cụ mã nguồn mở này hữu ích cho quá trình phân tích th
 
 ---
 
-
-## tele @WhaleMindse
-
 ## 📄 Giấy Phép (License)
 
 Dự án này được phát hành dưới giấy phép mã nguồn mở **MIT License**. Bạn có toàn quyền sử dụng, sửa đổi và phân phối theo quy định của giấy phép.
